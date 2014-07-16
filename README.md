@@ -6,7 +6,7 @@ It provides a simple framework of Java list array operations.
 <br>You can easily customize it through relevant interface for more operations,
 but it's not strictly verified even reviewed in public project, you should know it.
 
-###For waht?
+###For what?
 Actually, as a Java beginning developer, I didn't find a very convenience and pretty interface for array's operation in JDK, such as add, subtract, filter. 
 <br>You might think of the `Arrays` utilities, but it still can not satisfy above requirement.
 So I try to create this project for my daily work and share it for people who have the same meet.
